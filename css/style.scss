@@ -55,10 +55,15 @@ body {
                 display: flex;
                 justify-content: center;
                 margin-top:1em;
+                padding: 5px;
+                border: 1px solid rgba(129, 129, 129, 0.671);
+                box-shadow: 5px 5px rgba(129, 129, 129, 0.671);
+                border-radius: 5px;
                 &:hover {
                     transition: ease-in-out all 0.1s;
                     opacity: 0.7;
                     cursor: pointer;
+                    box-shadow: 5px 5px rgba(0, 0, 0, 0.671);
                 }
             }
             .imgItem {

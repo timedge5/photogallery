@@ -72,6 +72,11 @@ body .container .gallery .imgCard {
       -ms-flex-pack: center;
           justify-content: center;
   margin-top: 1em;
+  padding: 5px;
+  border: 1px solid rgba(129, 129, 129, 0.671);
+  -webkit-box-shadow: 5px 5px rgba(129, 129, 129, 0.671);
+          box-shadow: 5px 5px rgba(129, 129, 129, 0.671);
+  border-radius: 5px;
 }
 
 body .container .gallery .imgCard:hover {
@@ -79,6 +84,8 @@ body .container .gallery .imgCard:hover {
   transition: ease-in-out all 0.1s;
   opacity: 0.7;
   cursor: pointer;
+  -webkit-box-shadow: 5px 5px rgba(0, 0, 0, 0.671);
+          box-shadow: 5px 5px rgba(0, 0, 0, 0.671);
 }
 
 body .container .gallery .imgItem {

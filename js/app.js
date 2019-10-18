@@ -38,6 +38,56 @@ var imgArr = [
     filename: 'img/8.jpg',
     photographer: 'Anon',
     caption: 'Alone in the Artic'
+    },
+    {
+    filename: 'img/9.jpg',
+    photographer: 'Anon',
+    caption: 'Cat sleeping on table'
+    },
+    {
+    filename: 'img/10.jpg',
+    photographer: 'Anon',
+    caption: 'Girl on rock'
+    },
+    {
+    filename: 'img/11.jpg',
+    photographer: 'Anon',
+    caption: 'Butterfly landed on leaf'
+    },
+    {
+    filename: 'img/12.jpg',
+    photographer: 'Anon',
+    caption: 'White SUV in desert'
+    },
+    {
+    filename: 'img/13.jpg',
+    photographer: 'Anon',
+    caption: 'Pregnant lady at dusk'
+    },
+    {
+    filename: 'img/14.jpg',
+    photographer: 'Anon',
+    caption: 'Blinded by the light'
+    },
+    {
+    filename: 'img/15.jpg',
+    photographer: 'Anon',
+    caption: 'A lone twig'
+    },
+    {
+    filename: 'img/16.jpg',
+    photographer: 'Anon',
+    caption: 'Waves breaking on stone'
+    },
+    {
+    filename: 'img/17.jpg',
+    photographer: 'Anon',
+    caption: 'Orange tennis racket and ball'
+    },
+    {
+    filename: 'img/18.jpg',
+    photographer: 'Anon',
+    caption: 'Man sitting on rock'
     }
     
 ];
